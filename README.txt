@@ -5,4 +5,4 @@ Simple Instagram clone
 
 Стек: HTML, CSS и JavaScript без фреймворков.
 
-Запуск: открой index.html в браузере.
+Запуск: открыть index.html в браузере. Или по ссылке в деплойе https://skksska.github.io/instagram-dopple/
